@@ -1,0 +1,7 @@
+Bundle 'dansomething/vim-eclim'
+UnBundle 'scrooloose/syntastic'
+Bundle 'klen/python-mode'
+Bundle 'yssource/python.vim'
+Bundle 'python_match.vim'
+Bundle 'pythoncomplete'
+
